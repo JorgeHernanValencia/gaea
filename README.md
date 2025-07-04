@@ -28,7 +28,9 @@ GAEA busca construir colectivamente marcos, políticas, herramientas y casos de 
 
 
 Webs:
+
 https://gaea.fadcoad.com
+
 https://logos.fadcoad.com
 
 ## ¿Cómo participar?
