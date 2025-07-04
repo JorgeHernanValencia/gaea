@@ -6,6 +6,10 @@ Bienvenido/a al repositorio de GAEA, un espacio abierto de discusión, documenta
 
 GAEA busca construir colectivamente marcos, políticas, herramientas y casos de uso que permitan un gobierno algorítmico centrado en la ética, la transparencia y la autonomía, alineado con los valores humanos y sociales.
 
+Webs:
+https://gaea.fadcoad.com
+https://logos.fadcoad.com
+
 ## ¿Cómo participar?
 
 - Únete a las discusiones en la sección [Discussions](../../discussions).
