@@ -13,7 +13,7 @@ Aquí se incluyen documentos clave como:
   Fundamentos teóricos, modelos de referencia y enfoques metodológicos empleados en el desarrollo de LOGOS.
 
 - 🗂️ **Arquitectura de sistemas**  
-  Descripción general de la estructura de lis sistemas, diagramas de componentes y decisiones técnicas clave.
+  Descripción general de la estructura de los sistemas, diagramas de componentes y decisiones técnicas clave.
 
 - 🧪 **Casos de uso y flujos**  
   Escenarios que describen el comportamiento de los sistema desde la perspectiva del usuario.
