@@ -1,3 +1,27 @@
+<p align="center">
+  <img src="assets/logos/logos-logo-horizontal.png" alt="LOGOS" width="400"/>
+</p>
+
+# Proyecto LOGOS · GAEA
+
+Bienvenido al repositorio oficial del proyecto **LOGOS**, una iniciativa de **GAEA** orientada a la construcción de conocimiento abierto, ético y colaborativo...
+
+<p align="center">
+  <img src="assets/logos/logo-gaea.png" alt="GAEA" width="400"/>
+</p>
+
+# Proyecto LOGOS · GAEA
+
+Bienvenido al repositorio oficial del proyecto **LOGOS**, una iniciativa de **GAEA** orientada a la construcción de conocimiento abierto, ético y colaborativo...
+
+<p align="center">
+  <img src="assets/logos/logo-gaea.png" alt="LOGOS · GAEA" width="400"/>
+</p>
+
+# Proyecto LOGOS · GAEA
+
+Bienvenido al repositorio oficial del proyecto **LOGOS**, una iniciativa de **GAEA** orientada a la construcción de conocimiento abierto, ético y colaborativo...
+
 # GAEA - Gobierno Algorítmico Ético y Autónomo
 
 Bienvenido/a al repositorio de GAEA, un espacio abierto de discusión, documentación y colaboración para el desarrollo de ideas, principios y prácticas sobre Gobierno Algorítmico Ético y Autónomo.
