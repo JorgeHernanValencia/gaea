@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logos/logos-logo-horizontal.png" alt="LOGOS" width="400"/>
+  <img src="assets/logos/logo-logos-horizontal.png" alt="LOGOS" width="400"/>
 </p>
 
 # Proyecto LOGOS · GAEA
@@ -15,7 +15,7 @@ Bienvenido al repositorio oficial del proyecto **LOGOS**, una iniciativa de **GA
 Bienvenido al repositorio oficial del proyecto **LOGOS**, una iniciativa de **GAEA** orientada a la construcción de conocimiento abierto, ético y colaborativo...
 
 <p align="center">
-  <img src="assets/logos/logo-gaea.png" alt="LOGOS · GAEA" width="400"/>
+  <img src="assets/logos/_logo-gaea.png" alt="LOGOS · GAEA" width="400"/>
 </p>
 
 # Proyecto LOGOS · GAEA
