@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Adelaida",
+        "mensaje": "Este es el segundo mensaje de prueba",
+        "fecha": "2025-07-07 15:49:23"
+    },
+    {
+        "nombre": "Jorge",
+        "mensaje": "Hola, este es un mensaje de prueba",
+        "fecha": "2025-07-07 15:48:26"
+    }
+]
