@@ -78,15 +78,17 @@ $Parsedown = new Parsedown(); // Creamos instancia del parser
 <h2>Mensajes recientes</h2>
 
 <?php
-function mostrar_mensajes($mensajes, $usuarios, $padre = null, $nivel = 0, $Parsedown) {
+function mostrar_mensajes($mensajes, $usuarios, $padre = null, $nivel = 0, $Parsedown = null) {
     foreach ($mensajes as $m) {
-        if (($m['respuesta_a'] ?? null) == $padre) {
+        if (($m['respuesta_a'] ?? null) == $padre && $m['id'] !== $padre) {
             $foto = 'img/default.png';
             $nombre = htmlspecialchars($m['nombre']);
 
             foreach ($usuarios as $u) {
-                if (isset($m['usuario_id']) && $u['id'] === $m['usuario_id']) {
-                    $foto = $u['imagen'] ?: 'img/default.png';
+                if (!empty($m['usuario_id']) && $u['id'] === $m['usuario_id']) {
+                    if (!empty($u['imagen'])) {
+                        $foto = $u['imagen'];
+                    }
                     $nombre = htmlspecialchars($u['nombre']);
                     break;
                 }
@@ -94,11 +96,15 @@ function mostrar_mensajes($mensajes, $usuarios, $padre = null, $nivel = 0, $Pars
 
             echo '<div class="mensaje" style="margin-left: ' . ($nivel * 2) . 'em;">';
             echo '<div class="autor">';
-            echo '<img src="' . htmlspecialchars($foto) . '" alt="Perfil">';
+            echo '<img src="' . htmlspecialchars($foto) . '" alt="Avatar">';
             echo '<strong>' . $nombre . '</strong>';
             echo '<span style="color:#666; font-size:0.9em; margin-left: 1em;">el ' . date('d/m/Y H:i', strtotime($m['fecha'])) . '</span>';
             echo '</div>';
-            echo '<div>' . $Parsedown->text($m['mensaje']) . '</div>';
+
+            // 👉 Aquí se renderiza Markdown correctamente
+            $mensaje_html = $Parsedown ? $Parsedown->text($m['mensaje']) : htmlspecialchars($m['mensaje']);
+            echo '<div>' . $mensaje_html . '</div>';
+
             if (isset($_SESSION['usuario_id'])) {
                 echo '<a href="?responder=' . $m['id'] . '">Responder</a>';
             }
