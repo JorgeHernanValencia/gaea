@@ -1,0 +1,43 @@
+🗨️ **Bienvenida al Foro GAEA/LOGOS**
+
+Este es un espacio abierto para compartir ideas, propuestas, dudas, críticas constructivas y preguntas relacionadas con el proyecto GAEA/LOGOS y con las herramientas que estamos desarrollando.
+
+Si ya tienes cuenta en GitHub, te invitamos también a participar en nuestras [discusiones oficiales en GitHub](https://github.com/JorgeHernanValencia/gaea/discussions). Allí llevamos el registro de ideas, aportes, mejoras y conversaciones clave sobre el desarrollo. Si no tienes cuenta, puedes crearla de forma gratuita y sencilla en [github.com](https://github.com/).
+
+Este foro también está pensado para quienes no se sienten cómodas usando plataformas técnicas o colaborativas como GitHub, pero quieren hacer parte de la conversación, aportar ideas, dar su punto de vista o proponer soluciones.
+
+Aquí no se requiere ser una experta. Se requiere pensar, cuestionar, construir y aportar desde lo que cada persona sabe y observa. Eso es lo que nos interesa: inteligencia práctica, creatividad, voluntad.
+
+**🧩 ¿Cómo escribir mejor tus comentarios?**
+
+Este foro admite un formato llamado **Markdown**, que permite dar estilo a tu mensaje de forma simple:
+
+Negrita: (Texto entre \*\*)  → **así**
+
+Cursiva: (Texto entre \*)  → *así*
+
+[Enlace]: (Texto entre [] y enlace entre parensis) → [gaea.fadcoad.com](https://gaea.fadcoad.com) 
+
+Código: rodeado con acentos graves ( \` )
+
+Listas (• y luego - →•-) así: 
+
+- punto 1
+
+- punto 2
+
+**Si no conoces Markdown, no te preocupes. Es opcional. Puedes escribir como siempre, y tu mensaje será bien recibido.**
+
+**📌 Sobre las reglas del foro**
+
+No censuramos ideas. Lo importante es mantener el respeto.
+No te preocupes por errores ortográficos, redacción o estilo. Este no es un concurso de literatura, es un espacio de pensamiento libre.
+Tampoco se te pedirá que escribas de forma artificial. Aquí **valoramos el contenido, no las apariencias.**
+
+Gracias por ser parte de esto.
+Te invitamos a participar, proponer, cuestionar y aportar.
+
+**¡Bienvenida al foro!**
+
+¿Quieres que publique este primer mensaje en tu foro directamente desde el sistema, o prefieres hacerlo tú con un usuario específico? ¿Quieres que adapte alguna parte más?
+
