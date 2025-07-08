@@ -56,7 +56,18 @@ Markdown se procesa de forma segura para evitar inyecciones o código malicioso.
 
 ## 📂 Estructura del proyecto
 
-/foro-lite-1.0/ ├── index.php         # Página principal del foro ├── guardar.php       # Procesa y guarda los comentarios ├── login.php         # Inicio de sesión ├── registro.php      # Registro de usuarios ├── logout.php        # Cierre de sesión ├── usuarios.json     # Datos de los usuarios registrados ├── posts.json        # Almacenamiento alternativo si no hay SQLite ├── foro.db           # Base de datos SQLite (si se usa) ├── estilo.css        # Estilos básicos del foro ├── init.php          # Configura la conexión según SQLite/JSON ├── README.md         # Este documento
+/foro-lite-1.0/ 
+├── index.php        # Página principal del foro 
+├── guardar.php       # Procesa y guarda los comentarios 
+├── login.php         # Inicio de sesión 
+├── registro.php      # Registro de usuarios 
+├── logout.php        # Cierre de sesión 
+├── usuarios.json     # Datos de los usuarios registrados 
+├── posts.json        # Almacenamiento alternativo si no hay SQLite 
+├── foro.db           # Base de datos SQLite (si se usa) 
+├── estilo.css        # Estilos básicos del foro 
+├── init.php          # Configura la conexión según SQLite/JSON
+├── README.md         # Este documento
 
 
 ## 📌 Estado del proyecto
